@@ -1,0 +1,24 @@
+@import '../../node_modules/react-vis/dist/style.css';
+@import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+.app {
+  text-align: center;
+  background-color: #282c34;
+  font-size: 30px;
+  color: white;
+}
+
+.header {
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
